@@ -1,0 +1,3 @@
+ID: 47aeca18-6f00-4e15-9fd8-17c51dee86f9 Imię: Mateusz Nazwisko: Mateusz Wiek: 30 lat Zarobki(brutto): 4000.0 zł
+ID: 3b5cc178-c490-432d-afd7-827db8cc6f4f Imię: Andrzej Nazwisko: duda Wiek: 19 lat Zarobki(brutto): 13232.0 zł
+ID: b29db726-b03d-4119-8a84-81ba4da0233f Imię: Krzys Nazwisko: Czyz Wiek: 43 lat Zarobki(brutto): 4990.0 zł
